@@ -1,0 +1,227 @@
+{
+  "menu-version": "8.0.1",
+  "min-version": "8.0.1",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/iidk",
+  "motd": "You are using build {0}. This menu was created by iiDk (@crimsoncauldron) on Discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with <3 by iiDk, kingofnetflix, and others\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [
+    {
+      "name": "goldentrophy",
+      "user-id": "63ABF99FF52170E8"
+    },
+    {
+      "name": "goldentrophy",
+      "user-id": "B74A49EEC20F3467"
+    },
+    {
+      "name": "Crisp",
+      "user-id": "B1C8C15DC5FDC651"
+    },
+    {
+      "name": "Crisp",
+      "user-id": "552B60F1C7BDF4EA"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "DA8EA1E716AE562"
+    },
+    {
+      "name": "gorillan0t",
+      "user-id": "A2DCB607262258EB"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "5DD755DD4897ECED"
+    },
+    {
+      "name": "Cha554",
+      "user-id": "E561B7176AAC1245"
+    },
+    {
+      "name": "Smilk",
+      "user-id": "6D98F8C3F4C218C8"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "BCC9EDED33385E46"
+    },
+    {
+      "name": "libyyyreal",
+      "user-id": "2C7484982273DD6C"
+    },
+    {
+      "name": "64Will64",
+      "user-id": "19FBD1D46C276C46"
+    }
+  ],
+  "super-admins": [
+    "goldentrophy",
+    "Twig",
+    "kingofnetflix",
+    "libyyyreal"
+  ],
+  "patreon": [
+    {
+      "user-id": "946CA29407F95A67",
+      "discord-id": 1349066383090126800,
+      "name": "Moderator",
+      "photo": "https://cdn.discordapp.com/avatars/1349066383090126868/d7b1510556aab9ebf4d39102b068c7e0.png?size=1024"
+    },
+    {
+      "user-id": "3EA37234BDD23625",
+      "discord-id": 1392621350249824500,
+      "name": "Boyfriend",
+      "photo": "https://cdn.discordapp.com/avatars/1392621350249824486/8b067b4130be268d7deed61eba7feb1d.png?size=1024"
+    },
+    {
+      "user-id": "FC0735AC8AE3E2D0",
+      "discord-id": 1394519577207116000,
+      "name": "Moderator",
+      "photo": "https://cdn.discordapp.com/avatars/1394519577207115977/3ec9cebed88f0ed529f81e1528821483.png?size=1024"
+    },
+    {
+      "user-id": "E6F887E93B7B6E4A",
+      "discord-id": 792576219785986000,
+      "name": "Staff Manager",
+      "photo": "https://cdn.discordapp.com/avatars/792576219785986090/4b76906e25892a79c05b55dd0150507e.png?size=1024"
+    },
+    {
+      "user-id": "BEEFE26BBBC9520B",
+      "discord-id": 1429519124236865800,
+      "name": "Moderator",
+      "photo": "https://cdn.discordapp.com/avatars/1429519124236865668/068225472c9f989975be6992b0f2195b.png?size=1024"
+    },
+    {
+      "user-id": "879991CDC1B04FBE",
+      "discord-id": 1101536244762161300,
+      "name": "Admin",
+      "photo": "https://cdn.discordapp.com/avatars/1101536244762161273/974fb39ca05c567b8d98299403dccef3.png?size=1024"
+    },
+    {
+      "user-id": "F2348267A4D51449",
+      "discord-id": 1102126730220683300,
+      "name": "Community Helper",
+      "photo": "https://cdn.discordapp.com/avatars/1102126730220683324/44bd61aaa7d0d052e16191343a4f3ec4.png?size=1024"
+    },
+    {
+      "user-id": "756E9D7F99260BB8",
+      "discord-id": 1135621026357706800,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1135621026357706813/d9b101f9ddba3c2ff2c64b4db8df6e6b.png?size=1024"
+    },
+    {
+      "user-id": "58D0CCF391632F8A",
+      "discord-id": 1112502094918852600,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1112502094918852628/0f7e63ea245126521f8d3eab5347eccb.png?size=1024"
+    },
+    {
+      "user-id": "A128AAD8F856C821",
+      "discord-id": 1377046958895661300,
+      "name": "Community Helper",
+      "photo": "https://cdn.discordapp.com/avatars/1377046958895661197/aaa105d663aca19cab8a7dde3142aaf2.png?size=1024"
+    },
+    {
+      "user-id": "B5AA0566DEE7C237",
+      "discord-id": 1145116926629118000,
+      "name": "Community Helper",
+      "photo": "https://cdn.discordapp.com/avatars/1145116926629117982/ad065ffc8115a6cc3386fe11d2c4fbf5.png?size=1024"
+    },
+    {
+      "user-id": "3774775",
+      "discord-id": 1275550139699695600,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1275550139699695627/ba5e6c900191d64c0bb1958968be2bc6.png?size=1024"
+    },
+    {
+      "user-id": "60A84CE446538FDF",
+      "discord-id": 1200874700683878400,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1200874700683878470/066753a80e5e27f7bf56256ba5d51028.png?size=1024"
+    },
+    {
+      "user-id": "1FBE32C431B11E2C",
+      "discord-id": 1312296145208217900,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1312296145208217741/0e628d0ca823820d03d79205e7815342.png?size=1024"
+    },
+    {
+      "user-id": "549138945A372812",
+      "discord-id": 1081629781210190000,
+      "name": "Community Helper",
+      "photo": "https://cdn.discordapp.com/avatars/1081629781210189925/68193982d157cbf93f84ead321293d50.png?size=1024"
+    },
+    {
+      "user-id": "9C6654D3958B114D",
+      "discord-id": 950096073358188700,
+      "name": "Admin",
+      "photo": "https://cdn.discordapp.com/avatars/950096073358188644/916c8a764138d863cc224ad16dce3949.png?size=1024"
+    },
+    {
+      "user-id": "757F4F2F40B831AE",
+      "discord-id": 1179197096595828700,
+      "name": "Staff Manager",
+      "photo": "https://cdn.discordapp.com/avatars/1179197096595828786/a9add24996e7e00ab91ce8dba1485758.png?size=1024"
+    },
+    {
+      "user-id": "C5A0E820BD007C79",
+      "discord-id": 927306771188559900,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/927306771188559894/3baf39bb18a980613d0c16fbbf4824f6.png?size=1024"
+    },
+    {
+      "user-id": "6D98F8C3F4C218C8",
+      "discord-id": 1122611609408381000,
+      "name": "Staff Manager",
+      "photo": "https://cdn.discordapp.com/avatars/1122611609408381053/1512dbbfe38774490f7766fab8c26c0a.png?size=1024"
+    },
+    {
+      "user-id": "235AB88A298B4943",
+      "discord-id": 950916167885795500,
+      "name": "Moderator",
+      "photo": "https://cdn.discordapp.com/avatars/950916167885795469/05fbe7dbd7fd8d19537fea4aba4e7269.png?size=1024"
+    },
+    {
+      "user-id": "5CB9F584B413BFD2",
+      "discord-id": 1061110723901653100,
+      "name": "Moderator",
+      "photo": "https://cdn.discordapp.com/avatars/1061110723901653113/ff694ca18da85d740e6c9995e10b7ef2.png?size=1024"
+    },
+    {
+      "user-id": "19FBD1D46C276C46",
+      "discord-id": 1094298002048430100,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1094298002048430092/7c35337046fe62dac9cf61c80d936ef2.png?size=1024"
+    },
+    {
+      "user-id": "F42CE90636C6DE3C",
+      "discord-id": 779851488193151000,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/779851488193151016/a_8870d5d683a30c36b1f7bf3c7d60d898.gif?size=1024"
+    },
+    {
+      "user-id": "CF21433365458C11",
+      "discord-id": 1279914828215095300,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1279914828215095296/7cdbc075f937dc05861905876ab1d38d.png?size=1024"
+    },
+    {
+      "user-id": "FC0ADB187F0D13A8",
+      "discord-id": 1370069909442138000,
+      "name": "Ultimate Tracker",
+      "photo": "https://cdn.discordapp.com/avatars/1370069909442138123/aba2a8179586557c0fbf04e786ffa428.png?size=1024"
+    }
+  ],
+  "detected-mods": [],
+  "poll": "Do you use the friend system <b>on the menu?</b> (not Gorilla Tag's)",
+  "option-a": "Yes",
+  "option-b": "No"
+}
